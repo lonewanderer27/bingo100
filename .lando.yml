@@ -1,0 +1,4 @@
+name: bingo100
+recipe: lamp
+config:
+  webroot: .
